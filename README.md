@@ -29,6 +29,24 @@ PrimeAIM utilizes the Windows API to control mouse movement for precise aiming.
 
 ---
 
+## **Recommended Hardware**  
+PrimeAIM performs best on modern GPUs with strong performance. The following graphics cards are highly recommended:  
+- **NVIDIA RTX 30 Series:**  
+  - RTX 3060, RTX 3060 Ti  
+  - RTX 3070, RTX 3070 Ti  
+  - RTX 3080, RTX 3080 Ti  
+  - RTX 3090, RTX 3090 Ti  
+
+- **NVIDIA RTX 40 Series:**  
+  - RTX 4060, RTX 4060 Ti  
+  - RTX 4070, RTX 4070 Ti  
+  - RTX 4080  
+  - RTX 4090  
+
+While PrimeAIM can run on older GPUs, using a 30-series or 40-series card ensures smoother performance and faster object detection.
+
+---
+
 ## **Preview**  
 ![PrimeAIM Menu Preview](https://github.com/PrimeMarket/pics/blob/main/NVIDIA_Overlay_MyTEJEOUhW.png?raw=true)
 
