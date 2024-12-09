@@ -30,3 +30,22 @@ PrimeAIM utilizes the Windows API to control mouse movement for precise aiming.
 
 ## **Preview**  
 ![PrimeAIM Menu Preview](https://github.com/PrimeMarket/pics/blob/main/NVIDIA_Overlay_MyTEJEOUhW.png?raw=true)
+
+
+---
+
+## **Important Notice**  
+PrimeAIM is designed for **educational purposes only**.  
+- **Use at your own risk!**  
+- You can only be banned if you are **reported by other players**.  
+- The developer of PrimeAIM is **not responsible** for any bans or penalties you might receive while using this tool.
+
+---
+
+## **Join the Community**  
+Need help or want to share feedback? Join the PrimeAIM Discord server:  
+[Click here to join the Discord](https://discord.gg/your-invite-link)
+
+---
+
+Enjoy using **PrimeAIM**, and aim responsibly!
