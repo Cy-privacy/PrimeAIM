@@ -42,7 +42,11 @@ PrimeAIM is designed for **educational purposes only**.
 - The developer of PrimeAIM is **not responsible** for any bans or penalties you might receive while using this tool.
 
 ---
+## **PrimeAIM Pro**  
+Want access to additional features and an enhanced experience? Upgrade to **PrimeAIM Pro** using the discord server!  
 
 ## **Join the Community**  
 Need help or want to share feedback? Join the PrimeAIM Discord server:  
-[Click here to join the Discord](https://discord.gg/your-invite-link)
+[Click here to join the Discord](https://discord.gg/N55YYbDZ7Z)
+
+
