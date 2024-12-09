@@ -1,5 +1,6 @@
 # PrimeAIM  
-An AI-powered Aim Assist built using the `opencv-python` package for screen capturing and PyTorch with YOLOv5 for object/player detection.  
+An AI-powered Aim Assist built using the `opencv-python` package for screen capturing and `PyTorch` with `YOLOv5` for object/player detection.  
+Using `python` makes it undetectable for the most `anticheats`.
 PrimeAIM utilizes the Windows API to control mouse movement for precise aiming.
 
 ---
