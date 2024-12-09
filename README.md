@@ -46,6 +46,3 @@ PrimeAIM is designed for **educational purposes only**.
 ## **Join the Community**  
 Need help or want to share feedback? Join the PrimeAIM Discord server:  
 [Click here to join the Discord](https://discord.gg/your-invite-link)
-
----
-
