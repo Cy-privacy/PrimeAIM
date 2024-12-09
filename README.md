@@ -49,4 +49,3 @@ Need help or want to share feedback? Join the PrimeAIM Discord server:
 
 ---
 
-Enjoy using **PrimeAIM**, and aim responsibly!
