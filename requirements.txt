@@ -1,14 +1,14 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 
-torch==2.0.1
-torchvision==0.15.2
-ultralytics
-numpy
-opencv-python
-mss
-pynput
-pywin32
-requests
-termcolor
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
+ultralytics==8.0.237
+numpy==1.26.4
+opencv-python>=4.1.2
+mss==9.0.1
+pynput==1.7.6
+pywin32==306
+requests==2.31.0
+termcolor==2.4.0
 PyQt5==5.15.9
-dill
+dill==0.3.8
