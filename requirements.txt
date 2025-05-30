@@ -1,7 +1,7 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 
-torch
-torchvision
+torch==2.0.1
+torchvision==0.15.2
 ultralytics
 numpy
 opencv-python
