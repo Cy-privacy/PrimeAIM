@@ -10,5 +10,5 @@ pynput
 pywin32
 requests
 termcolor
-pyqt5
+PyQt5==5.15.9
 dill
